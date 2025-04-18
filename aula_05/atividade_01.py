@@ -17,6 +17,7 @@
 # Do contrário, informar que é necessário manutenção do sistema de refrigeração
 
 temperatura = float(input('Digite a temperatura atual da máquina: '))
+
 MAX_TEMP = 15
 
 if temperatura <= MAX_TEMP:
